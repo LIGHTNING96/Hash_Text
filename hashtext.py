@@ -4,12 +4,12 @@ text = str(input("Hello Mother fucker input your text plz ==> : "))
 hashtype = str(input("input hash type mother fucker ==> : "))
 while text=="":
     print("your text Mother Fucker")
-    text = str(input("Hello Mother fucker input your text : "))
+    text = str(input("Hello input your text : "))
     if text !="":
         break
 while hashtype=="":
-    print("your hashtype Mother Fucker")
-    hashtype = str(input("Hello Mother fucker input your hashtype : "))
+    print("your hashtype ")
+    hashtype = str(input("Hello input your hashtype : "))
     if hashtype !="":
         break
 
