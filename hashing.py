@@ -1,4 +1,4 @@
-# hashing module Coded By Muhammed Mater mother fucker
+# hashing module Coded By Muhammed Mater 
 # thanks to Mahmoud S. Al for edite the code
 # facebook  : https://www.facebook.com/mody.saber.96343405 follow me
 #!/usr/bin/python3
